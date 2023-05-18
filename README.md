@@ -1,6 +1,6 @@
 # Lighthouse Labs | Promises
 
-[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-promises/tree/2023.05.18-web-flex-day-17april2023) | [Vimeo Video Recording (Coming Soon!)](#coming-soon)
+[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-promises/tree/2023.05.18-web-flex-day-17april2023) | [Vimeo Video Recording](https://vimeo.com/828106478/dd5b540e06?share=copy)
 
 * [X] The Async Problem
 * [X] Callbacks
