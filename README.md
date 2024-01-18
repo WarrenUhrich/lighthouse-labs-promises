@@ -1,5 +1,7 @@
 # Lighthouse Labs | Promises
 
+[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-promises/tree/2024.01.18-web-immersive-east-8january2024) | [Vimeo Video Recording](https://vimeo.com/904169969/7a6c55378d?share=copy)
+
 * [X] The Async Problem
 * [X] Callbacks
 * [X] Promises
