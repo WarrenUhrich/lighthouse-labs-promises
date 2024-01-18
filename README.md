@@ -1,2 +1,5 @@
-# lighthouse-labs-promises
-Lighthouse Labs "Promises" lecture. 
+# Lighthouse Labs | Promises
+
+* [ ] The Async Problem
+* [ ] Callbacks
+* [ ] Promises
