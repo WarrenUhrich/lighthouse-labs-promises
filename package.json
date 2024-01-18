@@ -1,0 +1,27 @@
+{
+  "name": "lighthouse-labs-promises",
+  "version": "1.0.0",
+  "description": "Practicing promises.",
+  "main": "01-callbacks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WarrenUhrich/lighthouse-labs-promises.git"
+  },
+  "keywords": [
+    "js",
+    "callbacks",
+    "promises"
+  ],
+  "author": "Warren Uhrich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WarrenUhrich/lighthouse-labs-promises/issues"
+  },
+  "homepage": "https://github.com/WarrenUhrich/lighthouse-labs-promises#readme",
+  "dependencies": {
+    "readline-promise": "^1.0.5"
+  }
+}

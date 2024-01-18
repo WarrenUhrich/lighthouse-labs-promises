@@ -1,0 +1,6 @@
+
+Promises are a new solution we have to the "async" problem.
+Promises can be in one of 3 states:
+    1. Pending
+    2. Resolved
+    3. Rejected
